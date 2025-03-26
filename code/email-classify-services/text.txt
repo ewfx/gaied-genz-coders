@@ -1,0 +1,9 @@
+I would like to set up automatic monthly payments for my loan EMI from my savings account.
+
+Payment details:
+	•	Loan Account Number: 123456789
+	•	Savings Account Number: 987654321
+	•	Monthly Payment Amount: $750
+	•	Start Date: April 1, 2025
+
+Please confirm once this is set up.
