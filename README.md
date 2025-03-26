@@ -100,6 +100,10 @@ uvicorn main:app --reload
 	•	CSS Framework: Styled Components
 
 
- Flow Diagram
+Flow Diagram
  <img width="589" alt="Flow Diagram" src="https://github.com/user-attachments/assets/9fef0033-6edb-4825-b32c-2fe97a2234d9" />
+
+Design Diagram
+![31c935c0-701e-4cf4-8eee-e0a1c2efc278](https://github.com/user-attachments/assets/b14e4797-7f55-4ff6-91ac-bba2694448e2)
+
 
